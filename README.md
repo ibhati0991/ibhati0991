@@ -39,7 +39,7 @@ With **13 years of experience** in the tech industry, I specialize in building m
 
 ### 📈 GitHub Stats
 *(Update the URL below with your actual GitHub username to activate)*
-![Tarun's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ibhati0991&show_icons=true&theme=tokyonight)
+![Tarun's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ibhati0991@gmail.com&show_icons=true&theme=tokyonight)
 
 ---
 
@@ -47,6 +47,5 @@ With **13 years of experience** in the tech industry, I specialize in building m
 
 - **LinkedIn:** [linkedin.com/in/ibhati0991/](https://www.linkedin.com/in/ibhati0991/)
 - **Location:** Noida / Remote
-- **Portfolio:** [Link to your site/blog]
 
 *"Whether it's a flight plan or a deployment pipeline, I ensure it's built for a smooth landing."*
