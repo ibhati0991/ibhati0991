@@ -37,11 +37,7 @@ With **13 years of experience** in the tech industry, I specialize in building m
 
 ---
 
-### 📈 GitHub Stats
-
-![Tarun's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ibhati0991&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ibhati0991&layout=compact&theme=tokyonight)
+### 📈 Trophies
 
 [![trophies](https://github-profile-trophy.vercel.app/?username=ibhati0991&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
 ---
