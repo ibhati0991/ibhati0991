@@ -29,8 +29,7 @@ With **13 years of experience** in the tech industry, I specialize in building m
 
 ### 📈 GitHub Stats
 
-![Tarun's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ibhati0991&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ibhati0991&layout=compact&theme=tokyonight)
+![Snake animation](https://github.com/ibhati0991/ibhati0991/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
